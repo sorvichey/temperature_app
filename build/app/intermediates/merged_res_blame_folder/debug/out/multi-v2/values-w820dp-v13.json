@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/admi/StudioProjects/temperature_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "outputFile": "E:\\Flutter\\temperature_app\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/admi/StudioProjects/temperature_app/build/flutter_barcode_scanner/intermediates/packaged_res/debug/values-w820dp-v13/values-w820dp-v13.xml",
+                    "source": "E:\\Flutter\\temperature_app\\build\\flutter_barcode_scanner\\intermediates\\packaged_res\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

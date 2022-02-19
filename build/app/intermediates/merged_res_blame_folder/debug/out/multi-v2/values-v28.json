@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/admi/StudioProjects/temperature_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
+            "outputFile": "E:\\Flutter\\temperature_app\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
             "map": [
                 {
-                    "source": "/Users/admi/.gradle/caches/transforms-2/files-2.1/655ff95270209dd291c438887048ba6e/material-1.3.0/res/values-v28/values-v28.xml",
+                    "source": "C:\\Users\\Bun Chhattraloren\\.gradle\\caches\\transforms-2\\files-2.1\\655ff95270209dd291c438887048ba6e\\material-1.3.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/admi/.gradle/caches/transforms-2/files-2.1/5cc10fa79d98a6363adab29f7c5f3eea/appcompat-1.2.0/res/values-v28/values-v28.xml",
+                    "source": "C:\\Users\\Bun Chhattraloren\\.gradle\\caches\\transforms-2\\files-2.1\\5cc10fa79d98a6363adab29f7c5f3eea\\appcompat-1.2.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",

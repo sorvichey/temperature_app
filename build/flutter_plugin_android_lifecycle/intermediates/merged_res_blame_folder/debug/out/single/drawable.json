@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/admi/StudioProjects/temperature_app/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/Users/admi/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/drawable/notification_bg_low.xml"
+        "merged": "E:\\Flutter\\temperature_app\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Bun Chhattraloren\\.gradle\\caches\\transforms-2\\files-2.1\\5f663b08eec19eef9a9d1af662d9025e\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "/Users/admi/StudioProjects/temperature_app/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/Users/admi/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/drawable/notification_bg.xml"
+        "merged": "E:\\Flutter\\temperature_app\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Bun Chhattraloren\\.gradle\\caches\\transforms-2\\files-2.1\\5f663b08eec19eef9a9d1af662d9025e\\core-1.6.0\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/Users/admi/StudioProjects/temperature_app/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/Users/admi/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/drawable/notification_tile_bg.xml"
+        "merged": "E:\\Flutter\\temperature_app\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Bun Chhattraloren\\.gradle\\caches\\transforms-2\\files-2.1\\5f663b08eec19eef9a9d1af662d9025e\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "/Users/admi/StudioProjects/temperature_app/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/Users/admi/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/drawable/notification_icon_background.xml"
+        "merged": "E:\\Flutter\\temperature_app\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Bun Chhattraloren\\.gradle\\caches\\transforms-2\\files-2.1\\5f663b08eec19eef9a9d1af662d9025e\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
     }
 ]
