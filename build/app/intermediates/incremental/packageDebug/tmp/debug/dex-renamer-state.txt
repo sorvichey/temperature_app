@@ -1,0 +1,4 @@
+#Sat Feb 19 08:57:00 ICT 2022
+base.0=E\:\\Flutter\\temperature_app-main\\temperature_app-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
